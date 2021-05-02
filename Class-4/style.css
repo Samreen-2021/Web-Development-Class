@@ -1,3 +1,16 @@
 div p{
-    color: brown;
+       color: brown;
+}
+.first-div p{
+    color: rgb(76, 16, 145);
+    background-color: darkcyan;
+}
+.second-div span{
+    font-size: 32px;
+}
+.first-div+.second-div{
+    text-decoration: underline;
+}
+.div-a ~p{
+    background-color: darkmagenta;
 }
