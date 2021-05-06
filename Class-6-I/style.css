@@ -1,17 +1,32 @@
 .form{
     border: solid;
+
 }
 header{
     float: right;
-    margin-right: 5px;
+    margin-right: 10px;
     font-size: 20px;
+    margin-top: 10px;
 }
 h2{
     text-align: center;
+    margin-left: 0%;
+    margin-top: 60px;
 }
-div p{
-    text-align: center;
+P{
+    margin-left: 43.5%;
+    margin-bottom: 0;
 }
-div button{
-    text-align: center;
+span{
+    color: red;
+}
+input{
+    display: block;
+    margin: auto;
+}
+button{
+    display: block;
+    margin: auto;
+    width: 180px;
+    background-color:#ffc107;
 }
