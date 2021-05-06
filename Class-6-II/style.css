@@ -1,0 +1,15 @@
+div.red{
+    background-color:red;
+    float:left;
+    height: 100px;
+    width: 300px;
+
+
+}
+div.green{
+    background-color: green;
+    float: right;
+    height: 100px;
+    width: 300px;
+    
+}

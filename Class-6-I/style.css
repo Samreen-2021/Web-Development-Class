@@ -1,0 +1,17 @@
+.form{
+    border: solid;
+}
+header{
+    float: right;
+    margin-right: 5px;
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+div p{
+    text-align: center;
+}
+div button{
+    text-align: center;
+}
