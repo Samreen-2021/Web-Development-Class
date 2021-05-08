@@ -1,0 +1,6 @@
+.flex-container{
+    background-color: grey;
+    display: flex;
+    padding: 10px;
+    flex-direction: column;
+}

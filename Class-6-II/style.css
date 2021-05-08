@@ -13,3 +13,11 @@ div.green{
     width: 300px;
     
 }
+div.blue{
+    background-color: rgb(49, 0, 128);
+    clear: both;
+    height: 100%;
+    width: 100%;
+  
+    
+}
