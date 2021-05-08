@@ -2,9 +2,10 @@
     display: flex;
     padding: 10px;
     flex-flow: row wrap;
-   
+    
     height: 300px;
     align-content: center;
+
     background-color: blueviolet;
 }
 .flex-container-1 >div{
@@ -12,6 +13,19 @@
     background-color: cornflowerblue;
     padding: 5px;
     margin: 10px;
+    
+}
+.flex-div-1{
+    order: 4;
+}
+.flex-div-2{
+    order: 2;
+}
+.flex-div-3{
+    order: 1;
+}
+.flex-div-4{
+    order: 3;
 }
 .flex-container-2{
     display: flex;
