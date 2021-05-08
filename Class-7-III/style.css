@@ -1,0 +1,35 @@
+.grid-container-1{
+    display: grid;
+    padding: 10px;
+    grid-template-columns: auto auto;
+    grid-row-gap: 40px;
+    height: 600px;
+    align-content: center;
+    
+
+    background-color: blueviolet;
+}
+.grid-container-1 >div{
+    width: 300px;
+    background-color: cornflowerblue;
+    padding: 5px;
+    margin: 10px;
+    
+}
+
+.flex-container-2{
+    display: flex;
+    padding: 10px;
+    flex-flow: row wrap;
+    
+    height: 300px;
+    align-items: center;
+
+    background-color:crimson;
+}
+.flex-container-2 >div{
+    width: 300px;
+    background-color: cornflowerblue;
+    padding: 5px;
+    margin: 10px;
+}
