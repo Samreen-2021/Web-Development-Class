@@ -1,8 +1,9 @@
 .flex-container{
     display: flex;
     padding: 10px;
-    flex-direction:row ;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
+    justify-content: space-around;
+
     background-color: blueviolet;
 }
 .flex-container >div{
