@@ -2,9 +2,9 @@
     display: flex;
     padding: 10px;
     flex-flow: row wrap;
-    justify-content: space-around;
+    
     height: 300px;
-    align-items: center;
+    align-content: center;
 
     background-color: blueviolet;
 }
